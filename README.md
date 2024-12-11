@@ -7,6 +7,10 @@ This repository contains the code for a distributed video processing system usin
 
 ---
 
+https://github.com/user-attachments/assets/7ca2dfdc-4872-4fce-8a7e-b4672c165f36
+
+
+
 ## Prerequisites
 
 Before starting, ensure the following are installed on your machine:
